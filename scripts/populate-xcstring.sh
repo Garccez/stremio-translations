@@ -52,6 +52,7 @@ LANG_JSON_PAIRS=(
   "te ../te-IN.json $EN_JSON_PATH"
   "tr ../tr-TR.json $EN_JSON_PATH"
   "uk ../uk-UA.json $EN_JSON_PATH"
+  "vec-BR ../vec-BR.json $EN_JSON_PATH"
   "vi ../vi-VN.json $EN_JSON_PATH"
   "zh-CN ../zh-CN.json $EN_JSON_PATH"
   "zh-HK ../zh-HK.json $EN_JSON_PATH"
